@@ -63,12 +63,11 @@
 
 你可再此网站上找到相同版本的文章：
 
-###[programming language] Nyasm Ver 0.01 (test version) #1
+### [programming language] Nyasm Ver 0.01 (test version) #1
 
 ### https://czlj.net/forum.php?mod=viewthread&tid=128
 
 ### 来自: CZLJ
-
 
 xinhaitianze
 
