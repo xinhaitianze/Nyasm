@@ -59,4 +59,17 @@
         print("hello world");           
     }                                          
       
-#这些实现中还有诸多逻辑BUG，代码不仅要能跑，还得对齐脑回路！
+## 这些实现中还有诸多逻辑BUG，代码不仅要能跑，还得对齐脑回路！
+
+你可再此网站上找到相同版本的文章：
+
+###[programming language] Nyasm Ver 0.01 (test version) #1
+
+### https://czlj.net/forum.php?mod=viewthread&tid=128
+
+### 来自: CZLJ
+
+
+xinhaitianze
+
+2025/8/13
