@@ -1,0 +1,12 @@
+// 2025/8/6 15:44
+// 此文件用于函数定义
+//                      xinhaitianze
+
+fn print(str NyaText){;}
+fn input(str NyaText){;}
+fn NyasmVersion(){
+    print("version 0.01");
+}
+fn exit(int NyaExitCode){
+    return NyaExitCode;
+}
